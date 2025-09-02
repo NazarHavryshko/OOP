@@ -1,0 +1,7 @@
+F:\Універ\OOP\OOP\Lab # 1\bin\Debug\Lab # 1.exe.config
+F:\Універ\OOP\OOP\Lab # 1\bin\Debug\Lab # 1.exe
+F:\Універ\OOP\OOP\Lab # 1\bin\Debug\Lab # 1.pdb
+F:\Універ\OOP\OOP\Lab # 1\obj\Debug\Lab # 1.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\Lab # 1\obj\Debug\Lab # 1.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\Lab # 1\obj\Debug\Lab # 1.exe
+F:\Універ\OOP\OOP\Lab # 1\obj\Debug\Lab # 1.pdb
