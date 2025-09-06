@@ -1,0 +1,16 @@
+F:\Універ\OOP\OOP\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\Універ\OOP\OOP\WpfApp1\bin\Debug\WpfApp1.exe
+F:\Універ\OOP\OOP\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\App.g.cs
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\MainWindow.baml
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\WpfApp1.exe
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\Універ\OOP\OOP\WpfApp1\obj\Debug\WpfApp1.exe.config
