@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26566DA8-4F74-4159-9151-7F828AF83C0C}|WpfApp1\\WpfApp1.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26566DA8-4F74-4159-9151-7F828AF83C0C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab # 2 console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26566DA8-4F74-4159-9151-7F828AF83C0C}|WpfApp1\\WpfApp1.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26566DA8-4F74-4159-9151-7F828AF83C0C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab # 2 console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A39CC619-20CE-406E-8C71-4D64334CC69F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A39CC619-20CE-406E-8C71-4D64334CC69F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab # 2 console\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A39CC619-20CE-406E-8C71-4D64334CC69F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A39CC619-20CE-406E-8C71-4D64334CC69F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab # 2 console\\inputnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\inputnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B2C654D-4ACF-4F9A-B793-5039059E94E3}|Lab # 1\\Lab # 1.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab # 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2C654D-4ACF-4F9A-B793-5039059E94E3}|Lab # 1\\Lab # 1.csproj|solutionrelative:lab # 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26566DA8-4F74-4159-9151-7F828AF83C0C}|WpfApp1\\WpfApp1.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26566DA8-4F74-4159-9151-7F828AF83C0C}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab # 2 console\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,81 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\WindowsFormsApp1\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\WindowsFormsApp1\\Form1.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Task5.cs",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task5.cs",
+              "RelativeDocumentMoniker": "Lab # 2 Console\\Task5.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task5.cs",
+              "RelativeToolTip": "Lab # 2 Console\\Task5.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwCcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T13:16:39.761Z",
+              "WhenOpened": "2025-09-11T10:15:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputNumbers.cs",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\InputNumbers.cs",
+              "RelativeDocumentMoniker": "Lab # 2 Console\\InputNumbers.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\InputNumbers.cs",
+              "RelativeToolTip": "Lab # 2 Console\\InputNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:55:26.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\WindowsFormsApp1\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\WindowsFormsApp1\\Form1.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Title": "Task4.cs",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task4.cs",
+              "RelativeDocumentMoniker": "Lab # 2 Console\\Task4.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task4.cs",
+              "RelativeToolTip": "Lab # 2 Console\\Task4.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T13:16:33.747Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml",
-              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\WpfApp1\\App.xaml",
-              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
-              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\WpfApp1\\App.xaml",
-              "RelativeToolTip": "WpfApp1\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-06T13:10:57.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\WpfApp1\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
-              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\WpfApp1\\MainWindow.xaml",
-              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-02T14:34:58.776Z",
+              "WhenOpened": "2025-09-11T09:54:32.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\WpfApp1\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
-              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\WpfApp1\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Title": "Task3.cs",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task3.cs",
+              "RelativeDocumentMoniker": "Lab # 2 Console\\Task3.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task3.cs",
+              "RelativeToolTip": "Lab # 2 Console\\Task3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T14:34:56.544Z",
+              "WhenOpened": "2025-09-11T09:51:03.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 1\\Program.cs",
-              "RelativeDocumentMoniker": "Lab # 1\\Program.cs",
-              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 1\\Program.cs",
-              "RelativeToolTip": "Lab # 1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Program.cs",
+              "RelativeDocumentMoniker": "Lab # 2 Console\\Program.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Program.cs",
+              "RelativeToolTip": "Lab # 2 Console\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T14:16:50.529Z",
+              "WhenOpened": "2025-09-11T09:51:02.053Z",
               "EditorCaption": ""
             }
           ]
