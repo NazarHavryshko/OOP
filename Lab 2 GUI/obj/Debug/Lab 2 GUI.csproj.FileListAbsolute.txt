@@ -1,0 +1,22 @@
+F:\Універ\OOP\OOP\Lab 2 GUI\bin\Debug\Lab 2 GUI.exe.config
+F:\Універ\OOP\OOP\Lab 2 GUI\bin\Debug\Lab 2 GUI.exe
+F:\Універ\OOP\OOP\Lab 2 GUI\bin\Debug\Lab 2 GUI.pdb
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\Lab 2 GUI.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\MainWindow.g.cs
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\App.g.cs
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\Lab 2 GUI_MarkupCompile.cache
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\Lab 2 GUI_MarkupCompile.lref
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\MainWindow.baml
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\Lab 2 GUI.g.resources
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\Lab_2_GUI.Properties.Resources.resources
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\Lab 2 GUI.csproj.GenerateResource.cache
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\Lab 2 GUI.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\Lab 2 GUI.exe
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\Lab 2 GUI.pdb
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\Lab 2 GUI.exe.config
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\TaskTree.g.cs
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\TaskTree.baml
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\TaskFive.g.cs
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\TaskFive.baml
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\TaskFor.g.cs
+F:\Універ\OOP\OOP\Lab 2 GUI\obj\Debug\TaskFor.baml

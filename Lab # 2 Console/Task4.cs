@@ -33,20 +33,18 @@ namespace Lab___2_Console
                 {
                     Console.WriteLine("Рівняння немає коренів.");
                 }
-                else
-                {
-                    if (d == 0)
-                    {
-                        double x = ((-1 * b) / 2 * a);
-                        Console.WriteLine($"Рівняння має один корінь х = {x}.");
-                    }
-                    else
-                    {
-                        double x1 = (((-1 * b) - Math.Pow(d, 0.5)) / 2 * a);
-                        double x2 = (((-1 * b) + Math.Pow(d, 0.5)) / 2 * a);
-                        Console.WriteLine($"Рівняння має два корінея х1 = {x1}, х2 = {x2}.");
-                    }
-                }
+                else if (d == 0)
+                     {
+                         double x = ((-1 * b) / 2 * a);
+                         Console.WriteLine($"Рівняння має один корінь х = {x}.");
+                     }
+                     else
+                     {
+                         double x1 = (((-1 * b) - Math.Pow(d, 0.5)) / 2 * a);
+                         double x2 = (((-1 * b) + Math.Pow(d, 0.5)) / 2 * a);
+                         Console.WriteLine($"Рівняння має два корінея х1 = {x1}, х2 = {x2}.");
+                     }
+                
             }
                 
         }

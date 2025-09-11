@@ -66,7 +66,7 @@ namespace Lab___2_Console
 
             while (status)
             {
-                if (int.TryParse(input_text, out x))
+                if (int.TryParse(input_text, out x) && x > 0)
                 {
                     status = false;
                 }
