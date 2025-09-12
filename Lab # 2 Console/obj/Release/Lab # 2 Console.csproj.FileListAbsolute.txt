@@ -1,0 +1,8 @@
+F:\Універ\OOP\OOP\Lab # 2 Console\bin\Release\Lab # 2 Console.exe.config
+F:\Універ\OOP\OOP\Lab # 2 Console\bin\Release\Lab # 2 Console.exe
+F:\Універ\OOP\OOP\Lab # 2 Console\bin\Release\Lab # 2 Console.pdb
+F:\Універ\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.exe
+F:\Універ\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.pdb
+F:\Універ\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.exe.config

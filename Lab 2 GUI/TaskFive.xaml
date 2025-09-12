@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Lab_2_GUI"
         mc:Ignorable="d"
-        Title="TaskFor" Height="450" Width="350">
+        Title="TaskFive" Height="450" Width="350">
     <Grid>
         <RadioButton x:Name="num_1" GroupName="Sums" Content="" HorizontalAlignment="Left" Margin="101,35,0,0" VerticalAlignment="Top"/>
         <RadioButton x:Name="num_2" GroupName="Sums" Content="" HorizontalAlignment="Left" Margin="101,69,0,0" VerticalAlignment="Top"/>

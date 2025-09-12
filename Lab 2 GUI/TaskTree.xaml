@@ -5,18 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Lab_2_GUI"
         mc:Ignorable="d"
-        Title="TaskOne" Height="450" Width="350">
+        Title="TaskTree" Height="500" Width="350">
     <Grid>
-        <Label Content="Значення х" HorizontalAlignment="Center" Margin="0,40,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16"/>
-        <TextBox x:Name="num_x" HorizontalAlignment="Center" Margin="0,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Значення y" HorizontalAlignment="Center" Margin="0,100,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16"/>
-        <TextBox x:Name="num_y" HorizontalAlignment="Center" Margin="0,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Значення z" HorizontalAlignment="Center" Margin="0,160,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16"/>
-        <TextBox x:Name="num_z" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="0,188,0,0"/>
+        <Label Content="Значення х" HorizontalAlignment="Center" Margin="0,90,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16"/>
+        <TextBox x:Name="num_x" HorizontalAlignment="Center" Margin="0,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Значення y" HorizontalAlignment="Center" Margin="0,150,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16"/>
+        <TextBox x:Name="num_y" HorizontalAlignment="Center" Margin="0,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Значення z" HorizontalAlignment="Center" Margin="0,210,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16"/>
+        <TextBox x:Name="num_z" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="0,237,0,0"/>
 
-        <Button x:Name="task_1" Content="Обчислити" HorizontalAlignment="Center" Margin="0,230,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20" Width="120" Height="45" Click="Solution"/>
-        <Label x:Name="num_s" Content="S = " Margin="0,290,0,0"  VerticalAlignment="Top" Height="36" Width="120" FontFamily="Times New Roman" FontSize="14" HorizontalAlignment="Center"/>
-        <Button x:Name="back" Content="Назад" HorizontalAlignment="Center" Margin="0,345,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20" Width="120" Height="45" Click="backClick"/>
+        <Button x:Name="task_1" Content="Обчислити" HorizontalAlignment="Center" Margin="0,280,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20" Width="120" Height="45" Click="Solution"/>
+        <Label x:Name="num_s" Content="S = " Margin="0,340,0,0"  VerticalAlignment="Top" Height="36" Width="120" FontFamily="Times New Roman" FontSize="14" HorizontalAlignment="Center"/>
+        <Button x:Name="back" Content="Назад" HorizontalAlignment="Center" Margin="0,395,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20" Width="120" Height="45" Click="backClick"/>
+        <Image HorizontalAlignment="Center" Height="100" Margin="0,24,0,0" VerticalAlignment="Top" Width="270" Source="/task_3_sum.png"/>
 
     </Grid>
 </Window>

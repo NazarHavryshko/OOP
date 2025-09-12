@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab 2 gui\\taskfive.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\taskfive.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab 2 gui\\taskfor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\taskfor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab 2 gui\\taskfor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\taskfor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab 2 gui\\taskfive.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab 2 gui\\taskfive.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\taskfive.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab 2 gui\\taskfive.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\taskfive.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab 2 gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab 2 gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab # 2 console\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab # 2 console\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab 2 gui\\tasktree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\tasktree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab # 2 console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab 2 gui\\taskfor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\taskfor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab 2 gui\\tasktree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\tasktree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab # 2 console\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab 2 gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab 2 gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab 2 gui\\tasktree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\tasktree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab # 2 console\\inputnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\inputnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab # 2 console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab # 2 console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,27 +70,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskFor.xaml.cs",
-              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskFor.xaml.cs",
-              "RelativeDocumentMoniker": "Lab 2 GUI\\TaskFor.xaml.cs",
-              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskFor.xaml.cs",
-              "RelativeToolTip": "Lab 2 GUI\\TaskFor.xaml.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T18:33:25.335Z",
+              "DocumentIndex": 7,
+              "Title": "TaskTree.xaml",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskTree.xaml",
+              "RelativeDocumentMoniker": "Lab 2 GUI\\TaskTree.xaml",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskTree.xaml",
+              "RelativeToolTip": "Lab 2 GUI\\TaskTree.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-12T06:44:10.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TaskFor.xaml",
-              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskFor.xaml",
-              "RelativeDocumentMoniker": "Lab 2 GUI\\TaskFor.xaml",
-              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskFor.xaml",
-              "RelativeToolTip": "Lab 2 GUI\\TaskFor.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-11T18:31:47.051Z",
+              "Title": "TaskFor.xaml.cs",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskFor.xaml.cs",
+              "RelativeDocumentMoniker": "Lab 2 GUI\\TaskFor.xaml.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskFor.xaml.cs",
+              "RelativeToolTip": "Lab 2 GUI\\TaskFor.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwD8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T18:33:25.335Z",
               "EditorCaption": ""
             },
             {
@@ -107,57 +107,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TaskFive.xaml.cs",
               "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskFive.xaml.cs",
               "RelativeDocumentMoniker": "Lab 2 GUI\\TaskFive.xaml.cs",
               "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskFive.xaml.cs",
               "RelativeToolTip": "Lab 2 GUI\\TaskFive.xaml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAcwDUAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowB8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T17:55:06.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TaskTree.xaml",
-              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskTree.xaml",
-              "RelativeDocumentMoniker": "Lab 2 GUI\\TaskTree.xaml",
-              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskTree.xaml",
-              "RelativeToolTip": "Lab 2 GUI\\TaskTree.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-11T17:34:38.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Lab 2 GUI\\MainWindow.xaml",
-              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\MainWindow.xaml",
-              "RelativeToolTip": "Lab 2 GUI\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-11T16:57:15.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Task4.cs",
               "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task4.cs",
               "RelativeDocumentMoniker": "Lab # 2 Console\\Task4.cs",
               "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task4.cs",
               "RelativeToolTip": "Lab # 2 Console\\Task4.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB4AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T09:54:32.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Lab 2 GUI\\MainWindow.xaml.cs",
@@ -165,25 +141,60 @@
               "RelativeToolTip": "Lab 2 GUI\\MainWindow.xaml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAqwCQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T16:57:14.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T16:57:14.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Task5.cs",
               "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task5.cs",
               "RelativeDocumentMoniker": "Lab # 2 Console\\Task5.cs",
               "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task5.cs",
               "RelativeToolTip": "Lab # 2 Console\\Task5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T10:15:44.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task3.cs",
+              "RelativeDocumentMoniker": "Lab # 2 Console\\Task3.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task3.cs",
+              "RelativeToolTip": "Lab # 2 Console\\Task3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:51:03.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskFor.xaml",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskFor.xaml",
+              "RelativeDocumentMoniker": "Lab 2 GUI\\TaskFor.xaml",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskFor.xaml",
+              "RelativeToolTip": "Lab 2 GUI\\TaskFor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-11T18:31:47.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab 2 GUI\\MainWindow.xaml",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\MainWindow.xaml",
+              "RelativeToolTip": "Lab 2 GUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-11T16:57:15.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "InputNumbers.cs",
               "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\InputNumbers.cs",
               "RelativeDocumentMoniker": "Lab # 2 Console\\InputNumbers.cs",
@@ -191,12 +202,11 @@
               "RelativeToolTip": "Lab # 2 Console\\InputNumbers.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAowEQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T09:55:26.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T09:55:26.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "TaskTree.xaml.cs",
               "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 2 GUI\\TaskTree.xaml.cs",
               "RelativeDocumentMoniker": "Lab 2 GUI\\TaskTree.xaml.cs",
@@ -204,21 +214,7 @@
               "RelativeToolTip": "Lab 2 GUI\\TaskTree.xaml.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T17:13:17.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Task3.cs",
-              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task3.cs",
-              "RelativeDocumentMoniker": "Lab # 2 Console\\Task3.cs",
-              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab # 2 Console\\Task3.cs",
-              "RelativeToolTip": "Lab # 2 Console\\Task3.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T09:51:03.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T17:13:17.221Z"
             },
             {
               "$type": "Document",

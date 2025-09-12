@@ -52,7 +52,7 @@ namespace Lab_2_GUI
 
             if (a == 0)
             {
-                MessageBox.Show("Це не дробове рівняння спробуйте ще раз спочатку.", "Помилка логіки", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("Це не квадратне рівняння спробуйте ще раз спочатку.", "Помилка логіки", MessageBoxButton.OK, MessageBoxImage.Error);
             }
             else
             {
@@ -65,30 +65,21 @@ namespace Lab_2_GUI
                 }
                 else if (d == 0)
                 {
-                    double x = ((-1 * b) / 2 * a);
+                    double x = ((-1 * b) / (2 * a));
                     text_x.Content = "Рівняння має один корінь";
                     num_x1.Content = $"х = {Math.Round(x, 4)}";
                     num_x2.Content = "";
                 }
                 else
                 {
-                    double x1 = (((-1 * b) - Math.Pow(d, 0.5)) / 2 * a);
-                    double x2 = (((-1 * b) + Math.Pow(d, 0.5)) / 2 * a);
+                    double x1 = (((-1 * b) - Math.Pow(d, 0.5)) / (2 * a));
+                    double x2 = (((-1 * b) + Math.Pow(d, 0.5)) / (2 * a));
                     text_x.Content = "Рівняння має два корінея";
-                    num_x1.Content = $"х = {Math.Round(x1, 4)}";
-                    num_x2.Content = $"х = {Math.Round(x2, 4)}";
+                    num_x1.Content = $"х1 = {Math.Round(x1, 4)}";
+                    num_x2.Content = $"х2 = {Math.Round(x2, 4)}";
                 }
             }
-            //if ((Math.Pow(y, 2) - x) == 0 || (Math.Pow(x, 3) + Math.Log(x)) <= 0)
-            //{
-            //    MessageBox.Show("При обчисленні виникли обчислення які в класичній математиці необчислюються.", "Помилка обчислення", MessageBoxButton.OK, MessageBoxImage.Error);
-            //}
-            //else
-            //{
-            //    double s = Math.Round((Math.Pow(Math.Cos(z), 2) + (y / (Math.Pow(y, 2) - x))) / (Math.Pow((Math.Pow(x, 3) + Math.Log(x)), 0.25)), 4);
 
-            //    num_s.Content = $"S = {s}";
-            //}
 
         }
 

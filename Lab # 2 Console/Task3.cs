@@ -14,7 +14,6 @@ namespace Lab___2_Console
 
         public void Start()
         {
-            Console.WriteLine((Math.Pow(0.703, 3) + Math.Log(0.703)));
             InputNumbers inputDN = new InputNumbers();
             double x = 0, y = 0, z = 0;
             Console.WriteLine("Введіть дробове значення x ");

@@ -25,7 +25,7 @@ namespace Lab___2_Console
             double sum = 0;
             for (int i = 1; i < k+1; i++)
             {
-                sum += Math.Pow(i, (double)n / (double)i);
+                sum += Math.Pow(i, ((double)n / (double)i));
             }
             Console.WriteLine($"Сума № 1 = {Math.Round(sum, 4)}");
         }
@@ -45,7 +45,7 @@ namespace Lab___2_Console
             double sum = 0;
             for (int i = 1; i < k + 1; i++)
             {
-                sum += i / Math.Pow(n, i);
+                sum += (double)i / Math.Pow(n, i);
             }
             Console.WriteLine($"Сума № 3 = {Math.Round(sum, 4)}");
         }

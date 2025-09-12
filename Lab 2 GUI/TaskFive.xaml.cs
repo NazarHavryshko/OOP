@@ -29,7 +29,7 @@ namespace Lab_2_GUI
             double sum = 0;
             for (int i = 1; i < k + 1; i++)
             {
-                sum += Math.Pow(i, (double)n / (double)i);
+                sum += Math.Pow(i, ((double)n / (double)i));
             }
             num_s.Content = $"Сума № 1 = {Math.Round(sum, 4)}";
         }
@@ -49,7 +49,7 @@ namespace Lab_2_GUI
             double sum = 0;
             for (int i = 1; i < k + 1; i++)
             {
-                sum += i / Math.Pow(n, i);
+                sum += (double)i / Math.Pow(n, i);
             }
             num_s.Content = $"Сума № 3 = {Math.Round(sum, 4)}";
         }

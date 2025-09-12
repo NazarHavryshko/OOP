@@ -151,5 +151,8 @@
   <ItemGroup>
     <Resource Include="sum_3.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="task_3_sum.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

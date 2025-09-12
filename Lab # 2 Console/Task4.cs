@@ -20,7 +20,7 @@ namespace Lab___2_Console
             inputIN.InputDoubleNumber(ref a);
             if (a == 0)
             {
-                Console.WriteLine("Це не дробове рівняння спробуйте ще раз спочатку. ");
+                Console.WriteLine("Це не квадратне рівняння спробуйте ще раз спочатку. ");
             }
             else
             {
@@ -35,14 +35,14 @@ namespace Lab___2_Console
                 }
                 else if (d == 0)
                      {
-                         double x = ((-1 * b) / 2 * a);
-                         Console.WriteLine($"Рівняння має один корінь х = {x}.");
+                         double x = Math.Round(((-1 * b) / (2 * a)), 4);
+                        Console.WriteLine($"Рівняння має один корінь х = {x}.");
                      }
                      else
                      {
-                         double x1 = (((-1 * b) - Math.Pow(d, 0.5)) / 2 * a);
-                         double x2 = (((-1 * b) + Math.Pow(d, 0.5)) / 2 * a);
-                         Console.WriteLine($"Рівняння має два корінея х1 = {x1}, х2 = {x2}.");
+                         double x1 = Math.Round((((-1 * b) - Math.Pow(d, 0.5)) / (2 * a)), 4);
+                         double x2 = Math.Round((((-1 * b) + Math.Pow(d, 0.5)) / (2 * a)), 4);
+                    Console.WriteLine($"Рівняння має два корінея х1 = {x1}, х2 = {x2}.");
                      }
                 
             }
