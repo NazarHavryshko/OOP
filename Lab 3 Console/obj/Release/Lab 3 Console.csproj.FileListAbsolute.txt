@@ -1,0 +1,8 @@
+C:\Education\OOP\OOP\Lab 3 Console\bin\Release\Lab 3 Console.exe.config
+C:\Education\OOP\OOP\Lab 3 Console\bin\Release\Lab 3 Console.exe
+C:\Education\OOP\OOP\Lab 3 Console\bin\Release\Lab 3 Console.pdb
+C:\Education\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.csproj.AssemblyReference.cache
+C:\Education\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.csproj.CoreCompileInputs.cache
+C:\Education\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.exe
+C:\Education\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.pdb
+C:\Education\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.exe.config

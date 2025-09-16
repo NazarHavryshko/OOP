@@ -20,3 +20,24 @@ F:\Універ\OOP\OOP\Lab 2 GUI\obj\Release\Lab 2 GUI.csproj.CoreCompileInputs
 F:\Універ\OOP\OOP\Lab 2 GUI\obj\Release\Lab 2 GUI.exe
 F:\Універ\OOP\OOP\Lab 2 GUI\obj\Release\Lab 2 GUI.pdb
 F:\Універ\OOP\OOP\Lab 2 GUI\obj\Release\Lab 2 GUI.exe.config
+C:\Education\OOP\OOP\Lab 2 GUI\bin\Release\Lab 2 GUI.exe.config
+C:\Education\OOP\OOP\Lab 2 GUI\bin\Release\Lab 2 GUI.exe
+C:\Education\OOP\OOP\Lab 2 GUI\bin\Release\Lab 2 GUI.pdb
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\Lab 2 GUI.csproj.AssemblyReference.cache
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\MainWindow.g.cs
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\TaskFive.g.cs
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\TaskFor.g.cs
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\TaskTree.g.cs
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\App.g.cs
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\Lab 2 GUI_MarkupCompile.cache
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\Lab 2 GUI_MarkupCompile.lref
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\MainWindow.baml
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\TaskFive.baml
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\TaskFor.baml
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\TaskTree.baml
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\Lab 2 GUI.g.resources
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\Lab_2_GUI.Properties.Resources.resources
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\Lab 2 GUI.csproj.GenerateResource.cache
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\Lab 2 GUI.csproj.CoreCompileInputs.cache
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\Lab 2 GUI.exe
+C:\Education\OOP\OOP\Lab 2 GUI\obj\Release\Lab 2 GUI.pdb

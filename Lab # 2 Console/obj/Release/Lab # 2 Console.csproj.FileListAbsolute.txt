@@ -6,3 +6,10 @@ F:\Універ\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.csproj.CoreC
 F:\Універ\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.exe
 F:\Універ\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.pdb
 F:\Універ\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.exe.config
+C:\Education\OOP\OOP\Lab # 2 Console\bin\Release\Lab # 2 Console.exe.config
+C:\Education\OOP\OOP\Lab # 2 Console\bin\Release\Lab # 2 Console.exe
+C:\Education\OOP\OOP\Lab # 2 Console\bin\Release\Lab # 2 Console.pdb
+C:\Education\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.csproj.AssemblyReference.cache
+C:\Education\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.csproj.CoreCompileInputs.cache
+C:\Education\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.exe
+C:\Education\OOP\OOP\Lab # 2 Console\obj\Release\Lab # 2 Console.pdb
