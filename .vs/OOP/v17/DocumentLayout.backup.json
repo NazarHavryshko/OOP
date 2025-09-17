@@ -1,42 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Education\\OOP\\OOP\\",
+  "WorkspaceRootPath": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E41A45EB-54B0-43A7-BC5E-7DD3283BA033}|Lab 3 Console\\Lab 3 Console.csproj|c:\\education\\oop\\oop\\lab 3 console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E41A45EB-54B0-43A7-BC5E-7DD3283BA033}|Lab 3 Console\\Lab 3 Console.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab 3 console\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41A45EB-54B0-43A7-BC5E-7DD3283BA033}|Lab 3 Console\\Lab 3 Console.csproj|solutionrelative:lab 3 console\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41A45EB-54B0-43A7-BC5E-7DD3283BA033}|Lab 3 Console\\Lab 3 Console.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab 3 console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E41A45EB-54B0-43A7-BC5E-7DD3283BA033}|Lab 3 Console\\Lab 3 Console.csproj|solutionrelative:lab 3 console\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E41A45EB-54B0-43A7-BC5E-7DD3283BA033}|Lab 3 Console\\Lab 3 Console.csproj|C:\\Education\\OOP\\OOP\\lab 3 console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E41A45EB-54B0-43A7-BC5E-7DD3283BA033}|Lab 3 Console\\Lab 3 Console.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab 3 console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E41A45EB-54B0-43A7-BC5E-7DD3283BA033}|Lab 3 Console\\Lab 3 Console.csproj|solutionrelative:lab 3 console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E41A45EB-54B0-43A7-BC5E-7DD3283BA033}|Lab 3 Console\\Lab 3 Console.csproj|C:\\Education\\OOP\\OOP\\lab 3 console\\inputnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E41A45EB-54B0-43A7-BC5E-7DD3283BA033}|Lab 3 Console\\Lab 3 Console.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab 3 console\\inputnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E41A45EB-54B0-43A7-BC5E-7DD3283BA033}|Lab 3 Console\\Lab 3 Console.csproj|solutionrelative:lab 3 console\\inputnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|C:\\Education\\OOP\\OOP\\lab # 2 console\\inputnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\inputnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|C:\\Education\\OOP\\OOP\\lab # 2 console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B50767C3-489C-432F-B8A3-43E13953DE79}|Lab # 2 Console\\Lab # 2 Console.csproj|solutionrelative:lab # 2 console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|C:\\Education\\OOP\\OOP\\lab 2 gui\\taskfor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\taskfor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|C:\\Education\\OOP\\OOP\\lab 2 gui\\tasktree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\tasktree.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|C:\\Education\\OOP\\OOP\\lab 2 gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|C:\\Education\\OOP\\OOP\\lab 2 gui\\tasktree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D80695EB-06F1-42B0-9FE6-3D91CD38BEF7}|Lab 2 GUI\\Lab 2 GUI.csproj|solutionrelative:lab 2 gui\\tasktree.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,121 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskFor.xaml",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab 2 GUI\\TaskFor.xaml",
-              "RelativeDocumentMoniker": "Lab 2 GUI\\TaskFor.xaml",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab 2 GUI\\TaskFor.xaml",
-              "RelativeToolTip": "Lab 2 GUI\\TaskFor.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-11T18:31:47.051Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InputNumbers.cs",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab 3 Console\\InputNumbers.cs",
-              "RelativeDocumentMoniker": "Lab 3 Console\\InputNumbers.cs",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab 3 Console\\InputNumbers.cs",
-              "RelativeToolTip": "Lab 3 Console\\InputNumbers.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T06:11:10.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Task3.cs",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab 3 Console\\Task3.cs",
-              "RelativeDocumentMoniker": "Lab 3 Console\\Task3.cs",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab 3 Console\\Task3.cs",
-              "RelativeToolTip": "Lab 3 Console\\Task3.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwEUAAAA4AAAAAAAAAA==",
+              "Title": "Task4.cs",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 3 Console\\Task4.cs",
+              "RelativeDocumentMoniker": "Lab 3 Console\\Task4.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 3 Console\\Task4.cs",
+              "RelativeToolTip": "Lab 3 Console\\Task4.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwEAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T06:09:34.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab 3 Console\\Program.cs",
-              "RelativeDocumentMoniker": "Lab 3 Console\\Program.cs",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab 3 Console\\Program.cs",
-              "RelativeToolTip": "Lab 3 Console\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T06:08:28.678Z",
+              "WhenOpened": "2025-09-17T06:06:20.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "InputNumbers.cs",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab # 2 Console\\InputNumbers.cs",
-              "RelativeDocumentMoniker": "Lab # 2 Console\\InputNumbers.cs",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab # 2 Console\\InputNumbers.cs",
-              "RelativeToolTip": "Lab # 2 Console\\InputNumbers.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCMAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 3 Console\\InputNumbers.cs",
+              "RelativeDocumentMoniker": "Lab 3 Console\\InputNumbers.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 3 Console\\InputNumbers.cs",
+              "RelativeToolTip": "Lab 3 Console\\InputNumbers.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T09:55:26.475Z",
+              "WhenOpened": "2025-09-16T06:11:10.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab 2 GUI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Lab 2 GUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab 2 GUI\\MainWindow.xaml",
-              "RelativeToolTip": "Lab 2 GUI\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-11T16:57:15.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TaskTree.xaml.cs",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab 2 GUI\\TaskTree.xaml.cs",
-              "RelativeDocumentMoniker": "Lab 2 GUI\\TaskTree.xaml.cs",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab 2 GUI\\TaskTree.xaml.cs",
-              "RelativeToolTip": "Lab 2 GUI\\TaskTree.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 3 Console\\Task3.cs",
+              "RelativeDocumentMoniker": "Lab 3 Console\\Task3.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 3 Console\\Task3.cs",
+              "RelativeToolTip": "Lab 3 Console\\Task3.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwE0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T17:13:17.221Z"
+              "WhenOpened": "2025-09-16T06:09:34.859Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab # 2 Console\\Program.cs",
-              "RelativeDocumentMoniker": "Lab # 2 Console\\Program.cs",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab # 2 Console\\Program.cs",
-              "RelativeToolTip": "Lab # 2 Console\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 3 Console\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 3 Console\\Program.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab 3 Console\\Program.cs",
+              "RelativeToolTip": "Lab 3 Console\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwB4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T09:51:02.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskTree.xaml",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab 2 GUI\\TaskTree.xaml",
-              "RelativeDocumentMoniker": "Lab 2 GUI\\TaskTree.xaml",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab 2 GUI\\TaskTree.xaml",
-              "RelativeToolTip": "Lab 2 GUI\\TaskTree.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-12T06:44:10.023Z"
+              "WhenOpened": "2025-09-16T06:08:28.678Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -28,7 +28,8 @@ namespace Lab_3_Console
                         task_3.Start();
                         break;
                     case 4:
-                        
+                        Task4 task_4 = new Task4();
+                        task_4.Run();
                         break;
                     case 0:
                         status = false;

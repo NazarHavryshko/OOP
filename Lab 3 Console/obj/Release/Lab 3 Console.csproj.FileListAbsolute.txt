@@ -6,3 +6,11 @@ C:\Education\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.csproj.CoreCompileI
 C:\Education\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.exe
 C:\Education\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.pdb
 C:\Education\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.exe.config
+F:\Універ\OOP\OOP\Lab 3 Console\bin\Release\Lab 3 Console.exe.config
+F:\Універ\OOP\OOP\Lab 3 Console\bin\Release\Lab 3 Console.exe
+F:\Універ\OOP\OOP\Lab 3 Console\bin\Release\Lab 3 Console.pdb
+F:\Універ\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.exe
+F:\Універ\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.pdb
+F:\Універ\OOP\OOP\Lab 3 Console\obj\Release\Lab 3 Console.exe.config

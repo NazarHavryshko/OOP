@@ -46,6 +46,7 @@ namespace Lab_3_Console
                     sumAddEl += array[i];
                 }
             }
+
             for (int i = n - 1; i > 0; i--)
             {
                 if (array[i] < 0)
@@ -75,14 +76,12 @@ namespace Lab_3_Console
                     }
                 }
             }
-            Console.WriteLine($"{"Індекс",-7} {"Оригінал",-12} {"Відсортований",-12}");
+            Console.WriteLine($"{"Індекс"} \t {"Оригінал"} \t {"Відсортований"}");
             for (int i = 0; i < array.Length; i++)
             {
-                Console.WriteLine($"{i,-7} {array[i],-12} {sortArray[i],-12}");
+                Console.WriteLine($"{i} \t {array[i]}     \t {sortArray[i]}");
             }
             Console.WriteLine($"Сума дотатніх чисел які мають непарні індекси = {sumAddEl}");
-
-            Console.ReadLine();
 
 
         }
