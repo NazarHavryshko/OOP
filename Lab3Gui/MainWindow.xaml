@@ -1,0 +1,24 @@
+﻿<Window x:Class="Lab3Gui.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab3Gui"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="400">
+    <Grid>
+        <Label Content="Введіть кількість елементів в масиві" HorizontalAlignment="Center" Height="31" Margin="0,40,0,0" VerticalAlignment="Top" Width="244" FontFamily="Times New Roman" FontSize="14"/>
+        <TextBox x:Name="num_n" HorizontalAlignment="Center" Margin="0,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128" Height="25"/>
+        <Button Content="Виконати" HorizontalAlignment="Center" Margin="0,500,0,0" VerticalAlignment="Top" Height="48" Width="112" Click="Solution"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto"
+              HorizontalScrollBarVisibility="Auto"
+              Width="300"
+              Margin="50,116,50,130"
+              Height="336">
+    <TextBlock x:Name="solution"
+               Text=""
+               TextWrapping="Wrap"/>
+</ScrollViewer>
+        <Label x:Name="sum_sol" Content="Сума дотатніх чисел які мають непарні індекси =" HorizontalAlignment="Center" Height="27" Margin="0,463,0,0" VerticalAlignment="Top" Width="344" FontFamily="Times New Roman" FontSize="14"/>
+    </Grid>
+</Window>

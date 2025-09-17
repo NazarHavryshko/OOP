@@ -73,6 +73,9 @@ namespace Lab_3_Console
                 arraySum[1, i] = i;
             }
             Console.WriteLine($"Кількість рядків, які не містять жодного додатного елемента = {numNeg}");
+
+            Console.WriteLine();
+
             Console.WriteLine("Сума елементів кожного стовпця.");
             for (int i = 0; i < 1; i++)
             {
@@ -100,6 +103,9 @@ namespace Lab_3_Console
                     }
                 }
             }
+
+            Console.WriteLine();
+
             Console.WriteLine("Відсортовані стовпці за спаданням сум елементів у стовпцях.");
             for (int i = 0; i < n; i++)
             {
@@ -110,6 +116,8 @@ namespace Lab_3_Console
                 }
                 Console.WriteLine();
             }
+
+            Console.WriteLine();
 
             Console.WriteLine("Відсортовані суми елементів кожного стовпця.");
             for (int i = 0; i < 1; i++)
