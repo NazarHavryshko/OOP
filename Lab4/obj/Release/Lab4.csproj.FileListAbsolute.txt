@@ -6,3 +6,11 @@ C:\Education\OOP\OOP\Lab4\obj\Release\Lab4.csproj.CoreCompileInputs.cache
 C:\Education\OOP\OOP\Lab4\obj\Release\Lab4.exe
 C:\Education\OOP\OOP\Lab4\obj\Release\Lab4.pdb
 C:\Education\OOP\OOP\Lab4\obj\Release\Lab4.exe.config
+F:\Універ\OOP\OOP\Lab4\bin\Release\Lab4.exe.config
+F:\Універ\OOP\OOP\Lab4\bin\Release\Lab4.exe
+F:\Універ\OOP\OOP\Lab4\bin\Release\Lab4.pdb
+F:\Універ\OOP\OOP\Lab4\obj\Release\Lab4.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\Lab4\obj\Release\Lab4.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\Lab4\obj\Release\Lab4.exe
+F:\Універ\OOP\OOP\Lab4\obj\Release\Lab4.pdb
+F:\Універ\OOP\OOP\Lab4\obj\Release\Lab4.exe.config
