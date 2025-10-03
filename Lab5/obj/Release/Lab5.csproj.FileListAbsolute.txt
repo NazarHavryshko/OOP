@@ -1,0 +1,16 @@
+F:\Універ\OOP\OOP\Lab5\bin\Release\Lab5.exe.config
+F:\Універ\OOP\OOP\Lab5\bin\Release\Lab5.exe
+F:\Універ\OOP\OOP\Lab5\bin\Release\Lab5.pdb
+F:\Універ\OOP\OOP\Lab5\obj\Release\Lab5.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\Lab5\obj\Release\MainWindow.g.cs
+F:\Універ\OOP\OOP\Lab5\obj\Release\App.g.cs
+F:\Універ\OOP\OOP\Lab5\obj\Release\Lab5_MarkupCompile.cache
+F:\Універ\OOP\OOP\Lab5\obj\Release\Lab5_MarkupCompile.lref
+F:\Універ\OOP\OOP\Lab5\obj\Release\MainWindow.baml
+F:\Універ\OOP\OOP\Lab5\obj\Release\Lab5.g.resources
+F:\Універ\OOP\OOP\Lab5\obj\Release\Lab5.Properties.Resources.resources
+F:\Універ\OOP\OOP\Lab5\obj\Release\Lab5.csproj.GenerateResource.cache
+F:\Універ\OOP\OOP\Lab5\obj\Release\Lab5.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\Lab5\obj\Release\Lab5.exe
+F:\Універ\OOP\OOP\Lab5\obj\Release\Lab5.pdb
+F:\Універ\OOP\OOP\Lab5\obj\Release\Lab5.exe.config
