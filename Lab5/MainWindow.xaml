@@ -118,19 +118,19 @@
         <Button Content="За номером рахунку" HorizontalAlignment="Left" Margin="777,570,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" Click="searchForNumberB"/>
         <Button Content="По імені клієнта" HorizontalAlignment="Left" Margin="936,570,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" Click="searchForNameB"/>
         <Button  Content="По суму на рахунку" HorizontalAlignment="Left" Margin="1083,570,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" Click="searchForMoneyB"/>
-        <Button x:Name="searchButton" Click="SearchButton" Content="Пошук" HorizontalAlignment="Left" Margin="960,759,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" Visibility="Collapsed"/>
+        <Button x:Name="searchButton" Click="SearchButton" Content="Пошук" HorizontalAlignment="Left" Margin="960,730,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" Visibility="Collapsed"/>
 
-        <Label x:Name="numCleintLable" Content="Введіть № рахунку:" HorizontalAlignment="Left" Margin="757,664,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16" Visibility="Collapsed"/>
-        <TextBox x:Name="numCleintText" HorizontalAlignment="Left" Margin="920,667,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Times New Roman" Height="25" VerticalContentAlignment="Center" Visibility="Collapsed"/>
+        <Label x:Name="numClientLable" Content="Введіть № рахунку:" HorizontalAlignment="Left" Margin="757,664,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16" Visibility="Collapsed"/>
+        <TextBox x:Name="numClientText" HorizontalAlignment="Left" Margin="920,667,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Times New Roman" Height="25" VerticalContentAlignment="Center" Visibility="Collapsed"/>
 
-        <Label x:Name="nameCleintLable" Content="Введіть ім'я клієнта:" HorizontalAlignment="Left" Margin="757,664,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16" Visibility="Collapsed" />
-        <TextBox x:Name="nameCleintText" HorizontalAlignment="Left" Margin="920,667,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="215" FontFamily="Times New Roman" Height="25" VerticalContentAlignment="Center" Visibility="Collapsed" />
+        <Label x:Name="nameClientLable" Content="Введіть ім'я клієнта:" HorizontalAlignment="Left" Margin="757,664,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16" Visibility="Collapsed" />
+        <TextBox x:Name="nameClientText" HorizontalAlignment="Left" Margin="920,667,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="215" FontFamily="Times New Roman" Height="25" VerticalContentAlignment="Center" Visibility="Collapsed" />
         <Button x:Name="showAll" Content="Показати всіх клієнтів" Click="ShowDataD" HorizontalAlignment="Left" Margin="670,493,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="15"/>
 
-        <Label x:Name="fromCleintLable" Content="Від:" HorizontalAlignment="Left" Margin="870,632,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16" Visibility="Collapsed" />
-        <TextBox x:Name="fromCleintText" HorizontalAlignment="Left" Margin="920,635,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Times New Roman" Height="25" VerticalContentAlignment="Center" Visibility="Collapsed" />
+        <Label x:Name="fromClientLable" Content="Від:" HorizontalAlignment="Left" Margin="870,632,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16" Visibility="Collapsed" />
+        <TextBox x:Name="fromClientText" HorizontalAlignment="Left" Margin="920,635,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Times New Roman" Height="25" VerticalContentAlignment="Center" Visibility="Collapsed" />
 
-        <Label x:Name="toCleintLable" Content="До:" HorizontalAlignment="Left" Margin="870,681,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16" Visibility="Collapsed" />
-        <TextBox x:Name="toCleintText" HorizontalAlignment="Left" Margin="920,683,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Times New Roman" Height="25" VerticalContentAlignment="Center" Visibility="Collapsed" />
+        <Label x:Name="toClientLable" Content="До:" HorizontalAlignment="Left" Margin="870,681,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16" Visibility="Collapsed" />
+        <TextBox x:Name="toClientText" HorizontalAlignment="Left" Margin="920,683,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Times New Roman" Height="25" VerticalContentAlignment="Center" Visibility="Collapsed" />
     </Grid>
 </Window>
