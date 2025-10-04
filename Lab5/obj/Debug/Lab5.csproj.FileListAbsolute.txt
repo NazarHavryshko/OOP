@@ -1,0 +1,15 @@
+F:\Універ\OOP\OOP\Lab5\bin\Debug\Lab5.exe.config
+F:\Універ\OOP\OOP\Lab5\bin\Debug\Lab5.exe
+F:\Універ\OOP\OOP\Lab5\bin\Debug\Lab5.pdb
+F:\Універ\OOP\OOP\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\Lab5\obj\Debug\MainWindow.g.cs
+F:\Універ\OOP\OOP\Lab5\obj\Debug\App.g.cs
+F:\Універ\OOP\OOP\Lab5\obj\Debug\Lab5_MarkupCompile.cache
+F:\Універ\OOP\OOP\Lab5\obj\Debug\Lab5_MarkupCompile.lref
+F:\Універ\OOP\OOP\Lab5\obj\Debug\MainWindow.baml
+F:\Універ\OOP\OOP\Lab5\obj\Debug\Lab5.g.resources
+F:\Універ\OOP\OOP\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+F:\Універ\OOP\OOP\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+F:\Універ\OOP\OOP\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\Lab5\obj\Debug\Lab5.exe
+F:\Універ\OOP\OOP\Lab5\obj\Debug\Lab5.pdb
