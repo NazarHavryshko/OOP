@@ -130,15 +130,9 @@ namespace Lab5
                 currency.SelectedItem != null &&
                 DataBase.СheckСorrectSumMoney(maneyS, out maneyInt))
             {
-                DataBase tempData = new DataBase();
-                tempData.bankName = bankName;
-                tempData.clientName = clientName;
-                tempData.timeOpen = dateOpen.SelectedDate.Value;
-                tempData.sumMoney = maneyInt;
-                tempData.dividendPercentage = dividendB;
-                tempData.clientType = (ClientType)typeClient.SelectedItem;
-                tempData.currency = (Currency)currency.SelectedItem;
-                tempData.accountNumber = this.fileStatus.id;
+                DataBase tempData = new DataBase(this.fileStatus.id, bankName, clientName, dateOpen.SelectedDate.Value, dividendB,
+                    (ClientType)typeClient.SelectedItem, (Currency)currency.SelectedItem, maneyInt);
+
 
                 this.fileStatus.id++;
                 this.fileStatus.numberСustomers++;
@@ -197,6 +191,7 @@ namespace Lab5
                 {
                     var writer = new BinaryFormatter();
                     writer.Serialize(file, save);
+                    MessageBox.Show("Файл збережено.", "Інформація", MessageBoxButton.OK, MessageBoxImage.Information);
                 }
             }
             else
@@ -205,22 +200,57 @@ namespace Lab5
             }
         }
 
-        
+        private void numClientSow(bool status)
+        {
+            if (status) {
+                numClientLable.Visibility = Visibility.Visible;
+                numClientText.Visibility = Visibility.Visible;
+            }
+            else {
+                numClientLable.Visibility = Visibility.Collapsed;
+                numClientText.Visibility = Visibility.Collapsed;
+            }
+        }
+        private void nameClientSow(bool status)
+        {
+            if (status)
+            {
+                nameClientLable.Visibility = Visibility.Visible;
+                nameClientText.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                nameClientLable.Visibility = Visibility.Collapsed;
+                nameClientText.Visibility = Visibility.Collapsed;
+            }
+        }
+        private void fromToClientSow(bool status)
+        {
+            if (status)
+            {
+                fromClientLable.Visibility = Visibility.Visible;
+                fromClientText.Visibility = Visibility.Visible;
+                toClientLable.Visibility = Visibility.Visible;
+                toClientText.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                fromClientLable.Visibility = Visibility.Collapsed;
+                fromClientText.Visibility = Visibility.Collapsed;
+                toClientLable.Visibility = Visibility.Collapsed;
+                toClientText.Visibility = Visibility.Collapsed;
+            }
+        }
+
+
         private void searchForNumberB(object sender, RoutedEventArgs e)
         {
             this.seasearchType = 1;
             searchButton.Visibility = Visibility.Visible;
 
-            numCleintLable.Visibility = Visibility.Visible;
-            numCleintText.Visibility = Visibility.Visible;
-
-            nameCleintLable.Visibility = Visibility.Collapsed;
-            nameCleintText.Visibility = Visibility.Collapsed;
-
-            fromCleintLable.Visibility = Visibility.Collapsed;
-            fromCleintText.Visibility = Visibility.Collapsed;
-            toCleintLable.Visibility = Visibility.Collapsed;
-            toCleintText.Visibility = Visibility.Collapsed;
+            numClientSow(true);
+            nameClientSow(false);
+            fromToClientSow(false);
         }
 
         private void searchForNameB(object sender, RoutedEventArgs e)
@@ -228,16 +258,9 @@ namespace Lab5
             this.seasearchType = 2;
             searchButton.Visibility = Visibility.Visible;
 
-            numCleintLable.Visibility = Visibility.Collapsed;
-            numCleintText.Visibility = Visibility.Collapsed;
-
-            nameCleintLable.Visibility = Visibility.Visible;
-            nameCleintText.Visibility = Visibility.Visible;
-
-            fromCleintLable.Visibility = Visibility.Collapsed;
-            fromCleintText.Visibility = Visibility.Collapsed;
-            toCleintLable.Visibility = Visibility.Collapsed;
-            toCleintText.Visibility = Visibility.Collapsed;
+            numClientSow(false);
+            nameClientSow(true);
+            fromToClientSow(false);
         }
 
         private void searchForMoneyB(object sender, RoutedEventArgs e)
@@ -245,21 +268,14 @@ namespace Lab5
             this.seasearchType = 3;
             searchButton.Visibility = Visibility.Visible;
 
-            numCleintLable.Visibility = Visibility.Collapsed;
-            numCleintText.Visibility = Visibility.Collapsed;
-
-            nameCleintLable.Visibility = Visibility.Collapsed;
-            nameCleintText.Visibility = Visibility.Collapsed;
-
-            fromCleintLable.Visibility = Visibility.Visible;
-            fromCleintText.Visibility = Visibility.Visible;
-            toCleintLable.Visibility = Visibility.Visible;
-            toCleintText.Visibility = Visibility.Visible;
+            numClientSow(false);
+            nameClientSow(false);
+            fromToClientSow(true);
         }
 
         private void searchForNumber()
         {
-            string searchIDStr = numCleintText.Text;
+            string searchIDStr = numClientText.Text;
             int searchID;
 
             if (int.TryParse(searchIDStr, out searchID))
@@ -284,18 +300,29 @@ namespace Lab5
 
         private void searchForName()
         {
-            string searchName = nameCleintText.Text;
+            string searchName = nameClientText.Text;
             if (DataBase.СheckСorrectClientName(searchName, 1))
             {
+                int numEl = 0;
                 foreach (var item in this.clients)
                 {
-                    if (item.clientName.Contains(searchName))
+                    if (item.clientName.ToLower().Contains(searchName.ToLower()))
                     {
-                        DataBase[] temp = new DataBase[] { item };
-                        ShowClients(temp);
-                        return;
+                        numEl++;
                     }
                 }
+                DataBase[] tempData = new DataBase[numEl];
+                numEl = 0;
+                foreach (var item in this.clients)
+                {
+                    if (item.clientName.ToLower().Contains(searchName.ToLower()))
+                    {
+                        tempData[numEl] = item;
+                        numEl++;
+                    }
+                }
+                ShowClients(tempData);
+
             }
             else
             {
@@ -306,8 +333,8 @@ namespace Lab5
 
         private void searchForMoney()
         {
-            string fromStr = fromCleintText.Text;
-            string toStr = toCleintText.Text;
+            string fromStr = fromClientText.Text;
+            string toStr = toClientText.Text;
             
             int from, to, numEl = 0;
 

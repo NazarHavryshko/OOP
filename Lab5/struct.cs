@@ -12,14 +12,27 @@ namespace Lab5
     [Serializable]
     public struct DataBase
     {
-        public int accountNumber { get; set; }
-        public string bankName { get; set; }
-        public string clientName { get; set; }
-        public DateTime timeOpen { get; set; }
-        public byte dividendPercentage { get; set; }
-        public ClientType clientType { get; set; }
-        public Currency currency { get; set; }
-        public int sumMoney { get; set; }
+        public int accountNumber { get;  }
+        public string bankName { get;  }
+        public string clientName { get;  }
+        public DateTime timeOpen { get;  }
+        public byte dividendPercentage { get;  }
+        public ClientType clientType { get;  }
+        public Currency currency { get;  }
+        public int sumMoney { get;  }
+
+        public DataBase(int accountNumber, string bankName, string clientName, DateTime timeOpen, byte dividendPercentage,
+            ClientType clientType, Currency currency, int sumMoney)
+        {
+            this.accountNumber = accountNumber;
+            this.bankName = bankName;
+            this.clientName = clientName;
+            this.timeOpen = timeOpen;
+            this.dividendPercentage = dividendPercentage;
+            this.clientType = clientType;
+            this.currency = currency;
+            this.sumMoney = sumMoney;            
+        }
 
         static public bool СheckСorrectBankName(string text)
         {
