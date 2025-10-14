@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A88571BD-6B01-4659-92FA-AB1185CFE4A6}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>Lab6</RootNamespace>
-    <AssemblyName>Lab6</AssemblyName>
+    <ProjectGuid>{0D97857A-9AB2-4F53-A512-E48771801BEC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>SimpleClassLibrary</RootNamespace>
+    <AssemblyName>SimpleClassLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,10 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="classes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="test.cs" />
+    <Compile Include="Students.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,0 +1,7 @@
+C:\Education\OOP\OOP\SimpleClassLibrary\bin\Release\SimpleClassLibrary.dll.config
+C:\Education\OOP\OOP\SimpleClassLibrary\bin\Release\SimpleClassLibrary.dll
+C:\Education\OOP\OOP\SimpleClassLibrary\bin\Release\SimpleClassLibrary.pdb
+C:\Education\OOP\OOP\SimpleClassLibrary\obj\Release\SimpleClassLibrary.csproj.AssemblyReference.cache
+C:\Education\OOP\OOP\SimpleClassLibrary\obj\Release\SimpleClassLibrary.csproj.CoreCompileInputs.cache
+C:\Education\OOP\OOP\SimpleClassLibrary\obj\Release\SimpleClassLibrary.dll
+C:\Education\OOP\OOP\SimpleClassLibrary\obj\Release\SimpleClassLibrary.pdb

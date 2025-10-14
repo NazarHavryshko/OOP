@@ -1,0 +1,15 @@
+F:\Універ\OOP\OOP\Lab6\bin\Release\Lab6.exe.config
+F:\Універ\OOP\OOP\Lab6\bin\Release\Lab6.exe
+F:\Універ\OOP\OOP\Lab6\bin\Release\Lab6.pdb
+F:\Універ\OOP\OOP\Lab6\obj\Release\Lab6.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\Lab6\obj\Release\Lab6.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\Lab6\obj\Release\Lab6.exe
+F:\Універ\OOP\OOP\Lab6\obj\Release\Lab6.pdb
+F:\Універ\OOP\OOP\Lab6\obj\Release\Lab6.exe.config
+C:\Education\OOP\OOP\Lab6\bin\Release\Lab6.exe.config
+C:\Education\OOP\OOP\Lab6\bin\Release\Lab6.exe
+C:\Education\OOP\OOP\Lab6\bin\Release\Lab6.pdb
+C:\Education\OOP\OOP\Lab6\obj\Release\Lab6.csproj.AssemblyReference.cache
+C:\Education\OOP\OOP\Lab6\obj\Release\Lab6.csproj.CoreCompileInputs.cache
+C:\Education\OOP\OOP\Lab6\obj\Release\Lab6.exe
+C:\Education\OOP\OOP\Lab6\obj\Release\Lab6.pdb

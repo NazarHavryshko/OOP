@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Education\\OOP\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A88571BD-6B01-4659-92FA-AB1185CFE4A6}|Lab6\\Lab6.csproj|C:\\Education\\OOP\\OOP\\lab6\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A88571BD-6B01-4659-92FA-AB1185CFE4A6}|Lab6\\Lab6.csproj|solutionrelative:lab6\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D97857A-9AB2-4F53-A512-E48771801BEC}|SimpleClassLibrary\\SimpleClassLibrary.csproj|c:\\education\\oop\\oop\\simpleclasslibrary\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D97857A-9AB2-4F53-A512-E48771801BEC}|SimpleClassLibrary\\SimpleClassLibrary.csproj|solutionrelative:simpleclasslibrary\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A88571BD-6B01-4659-92FA-AB1185CFE4A6}|Lab6\\Lab6.csproj|c:\\education\\oop\\oop\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A88571BD-6B01-4659-92FA-AB1185CFE4A6}|Lab6\\Lab6.csproj|solutionrelative:lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|c:\\education\\oop\\oop\\lab7\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|solutionrelative:lab7\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{404444F4-D13C-4519-B182-F996EBAB04C4}|Lab7\\Lab7.csproj|c:\\education\\oop\\oop\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{404444F4-D13C-4519-B182-F996EBAB04C4}|Lab7\\Lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22568C60-A4DD-475A-9FF3-8E9EA0370DCE}|Lab5\\Lab5.csproj|C:\\Education\\OOP\\OOP\\lab5\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22568C60-A4DD-475A-9FF3-8E9EA0370DCE}|Lab5\\Lab5.csproj|solutionrelative:lab5\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E85928F4-5F2A-4C9D-8B23-224F7FD65F93}|SimpleClassLibrary\\SimpleClassLibrary.csproj|c:\\education\\oop\\oop\\simpleclasslibrary\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E85928F4-5F2A-4C9D-8B23-224F7FD65F93}|SimpleClassLibrary\\SimpleClassLibrary.csproj|solutionrelative:simpleclasslibrary\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|c:\\education\\oop\\oop\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,25 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab6\\Program.cs",
-              "RelativeDocumentMoniker": "Lab6\\Program.cs",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab6\\Program.cs",
-              "RelativeToolTip": "Lab6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab7\\Test.cs",
+              "RelativeDocumentMoniker": "Lab7\\Test.cs",
+              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab7\\Test.cs",
+              "RelativeToolTip": "Lab7\\Test.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDsAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:19:59.775Z",
+              "WhenOpened": "2025-10-14T05:33:25.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Students.cs",
               "DocumentMoniker": "C:\\Education\\OOP\\OOP\\SimpleClassLibrary\\Students.cs",
               "RelativeDocumentMoniker": "SimpleClassLibrary\\Students.cs",
               "ToolTip": "C:\\Education\\OOP\\OOP\\SimpleClassLibrary\\Students.cs",
               "RelativeToolTip": "SimpleClassLibrary\\Students.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAmwAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAqwLUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T05:18:05.943Z",
               "EditorCaption": ""
@@ -70,35 +62,9 @@
               "RelativeDocumentMoniker": "Lab7\\Program.cs",
               "ToolTip": "C:\\Education\\OOP\\OOP\\Lab7\\Program.cs",
               "RelativeToolTip": "Lab7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T05:17:14.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "struct.cs",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab5\\struct.cs",
-              "RelativeDocumentMoniker": "Lab5\\struct.cs",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab5\\struct.cs",
-              "RelativeToolTip": "Lab5\\struct.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvyEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T05:34:48.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "classes.cs",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab6\\classes.cs",
-              "RelativeDocumentMoniker": "Lab6\\classes.cs",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab6\\classes.cs",
-              "RelativeToolTip": "Lab6\\classes.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T05:21:05.801Z",
               "EditorCaption": ""
             }
           ]

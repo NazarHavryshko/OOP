@@ -1,0 +1,12 @@
+C:\Education\OOP\OOP\Lab7\obj\Release\Lab7.csproj.AssemblyReference.cache
+C:\Education\OOP\OOP\Lab7\obj\Release\Lab7.csproj.CoreCompileInputs.cache
+C:\Education\OOP\OOP\Lab7\bin\Release\Lab7.exe.config
+C:\Education\OOP\OOP\Lab7\bin\Release\Lab7.exe
+C:\Education\OOP\OOP\Lab7\bin\Release\Lab7.pdb
+C:\Education\OOP\OOP\Lab7\bin\Release\SimpleClassLibrary.dll
+C:\Education\OOP\OOP\Lab7\bin\Release\SimpleClassLibrary.pdb
+C:\Education\OOP\OOP\Lab7\bin\Release\SimpleClassLibrary.dll.config
+C:\Education\OOP\OOP\Lab7\obj\Release\Lab7.csproj.Up2Date
+C:\Education\OOP\OOP\Lab7\obj\Release\Lab7.exe
+C:\Education\OOP\OOP\Lab7\obj\Release\Lab7.pdb
+C:\Education\OOP\OOP\Lab7\obj\Release\Lab7.exe.config

@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
+using SimpleClassLibrary;
 
-namespace Lab6
+namespace Lab7
 {
     internal class Program
     {
@@ -33,6 +34,51 @@ namespace Lab6
 
         }
 
+        static int InputPrice()
+        {
+            bool statusPorgram = true;
+
+            int priceT = 0;
+
+            while (statusPorgram)
+            {
+                Console.WriteLine("Оберіть, як ви хочете ввести вартість навчання:");
+                Console.WriteLine("1. Ввести вартість за місяць.");
+                Console.WriteLine("2. Ввести вартість за рік.");
+                Console.WriteLine("3. Ввести вартість за весь період.");
+
+                InputPosibleIntNumber(out priceT);
+
+                if (priceT > 0 && priceT < 4)
+                {
+                    statusPorgram = false;
+                }
+                else
+                {
+                    Console.WriteLine("Ви вибрали неіснуючий пунк спробуйте ще раз.");
+                }
+
+            }
+            string[] typeP = { "місяць", "рік", "весь період" };
+            Console.WriteLine($"Введіть вартість за {typeP[priceT - 1]}:");
+            int price;
+
+            InputPosibleIntNumber(out price);
+            switch (priceT)
+            {
+                case 1:
+                    break;
+                case 2:
+                    price /= 10;
+                    break;
+                case 3:
+                    price /= 40;
+                    break;
+            }
+
+            return price;
+        }
+
         static void AddNewStudent(List<Student> Students)
         {
 
@@ -47,9 +93,13 @@ namespace Lab6
                 Console.WriteLine("Ведіть кількість предметів:");
                 string num = Console.ReadLine();
 
+                int price = InputPrice();
+                
+
+
                 try
                 {
-                    Student student = new Student(name, code, course, num);
+                    Student student = new Student(name, code, course, num, price);
                     int numx = 0;
                     Result[] results = new Result[Convert.ToInt32(num)];
 
@@ -74,7 +124,7 @@ namespace Lab6
                         {
                             Console.WriteLine("Ви ввели невірне значення предмету.");
                         }
-                        
+
                     }
                     student.AddResults(results);
                     Students.Add(student);
@@ -83,12 +133,9 @@ namespace Lab6
                 catch (ArgumentException ae)
                 {
                     Console.WriteLine("Ви ввели невірне значення ");
-                    
-                    
-
                 }
             }
-   
+
         }
 
         static void ShowStudents(List<Student> Students)
@@ -107,7 +154,7 @@ namespace Lab6
             int num;
             while (true)
             {
-                
+
 
                 InputPosibleIntNumber(out num);
 
@@ -213,7 +260,7 @@ namespace Lab6
                         statusPorgram = false;
                         break;
                     case 8:
-                        Students = test.testStudent();
+                        Students = Test.testStudent();
                         break;
 
                     case 1:

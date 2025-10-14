@@ -4,20 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
 
-namespace Lab6
+namespace SimpleClassLibrary
 {
-    internal class classes
+    internal class Students
     {
     }
-
     public class Result
     {
         public string SubjectName { get; } = "Невказано";
         public string TeacherFullName { get; } = "Н/Д";
         public bool IsExam { get; } = false;
-        public byte Points { get; } = 0; 
+        public byte Points { get; } = 0;
 
         private bool СheckСorrectSText(string text)
         {
@@ -26,7 +24,7 @@ namespace Lab6
 
         private bool СheckСorrectSExam(string text, out bool resalt)
         {
-            resalt = (text == "1"); 
+            resalt = (text == "1");
             return (text == "1" || text == "2");
         }
 
@@ -62,7 +60,7 @@ namespace Lab6
             byte point;
 
             if (this.СheckСorrectSText(subjectName) && this.СheckСorrectSText(TeacherFullName) &&
-                this.СheckСorrectSExam(IsExam, out Exam) 
+                this.СheckСorrectSExam(IsExam, out Exam)
             )
             {
                 this.SubjectName = subjectName;
@@ -98,10 +96,12 @@ namespace Lab6
         }
     }
 
-    public class Student {
+    public class Student
+    {
         public string FullName { get; } = "Невказано";
         public string Group { get; } = "K-00";
-        public byte CourseNumber { get;  } = 1;
+        public byte CourseNumber { get; } = 1;
+        public int TuitionFee { get; } = 0;
 
         public Result[] Results { get; private set; } = new Result[0];
 
@@ -119,6 +119,16 @@ namespace Lab6
         {
             test = 0;
             return text.Length > 0 && byte.TryParse(text, out test) && test >= 0 && test <= 10;
+        }
+        public static bool СheckPosibleIntNumber(string input_text, out int x)
+        {
+            x = -1;
+
+            if (int.TryParse(input_text, out x) && x > 0)
+            {
+                return true;
+            }
+            return false;
         }
 
         public int GetAveragePoint()
@@ -156,21 +166,25 @@ namespace Lab6
             return this.Results[worstId].SubjectName;
         }
 
-        public Student(string FullName, string Group, string CourseNumber, string SubjectNum)
+        public Student(string FullName, string Group, string CourseNumber, string SubjectNum, int Price)
         {
             int num;
             byte course;
 
             if (this.СheckСorrectSName(FullName) && this.СheckСorrectSGroup(Group) &&
-                this.СheckСorrectCourseNumber(CourseNumber, out course) && int.TryParse(SubjectNum, out num)
+                this.СheckСorrectCourseNumber(CourseNumber, out course) && СheckPosibleIntNumber(SubjectNum, out num) &&
+                Price > 0
             )
             {
                 this.FullName = FullName;
                 this.Group = Group;
                 this.CourseNumber = course;
+                this.TuitionFee = Price;
+
                 Results = new Result[num];
             }
-            else {
+            else
+            {
                 throw new ArgumentException("Один або більше параметрів для створення Result є некоректними.");
             }
         }
@@ -204,7 +218,7 @@ namespace Lab6
             this.FullName = other.FullName;
             this.Group = other.Group;
             this.CourseNumber = other.CourseNumber;
-            this.Results =  other.Results.Select(r => new Result(r)).ToArray();
+            this.Results = other.Results.Select(r => new Result(r)).ToArray();
         }
 
 
@@ -214,5 +228,4 @@ namespace Lab6
             return $"Ім'я студента: {this.FullName.PadRight(30)} Група: {this.Group.PadRight(12)} Курс: {this.CourseNumber}";
         }
     }
-
 }
