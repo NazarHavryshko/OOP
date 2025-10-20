@@ -230,6 +230,56 @@ namespace Lab7
 
         }
 
+        static void ShowTuitionFee(List<Student> Students)
+        {
+            ShowStudents(Students);
+
+            Console.WriteLine("Виберіть одного з студентів:");
+            int numSt;
+            while (true)
+            {
+
+
+                InputPosibleIntNumber(out numSt);
+
+                if (numSt > 0 && numSt <= Students.LongCount())
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Вибераного вами студента неіснує спробуйте знову:");
+                }
+            }
+            numSt--;
+            Console.WriteLine("Оберіть, як ви хочете побачите вартість навчання:");
+            Console.WriteLine("1. Вартість за місяць.");
+            Console.WriteLine("2. Вартість за рік.");
+            Console.WriteLine("3. Вартість за весь період.");
+            int num=0; 
+            while (true)
+            {
+
+
+                InputPosibleIntNumber(out num);
+
+                if (num > 0 && num < 4)
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Ви вибрали неіснуючий пунк спробуйте ще раз.");
+                }
+            }
+            num--;
+            int[] price = {1, 10, 40};
+            string[] str = { "місяць", "рік", "весь період"};
+
+            Console.WriteLine($"Вартісьт навчання студента {Students[numSt].FullName} за {str[num]} {Students[numSt].TuitionFee * price[num]}");
+
+        }
+
         static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
@@ -246,6 +296,7 @@ namespace Lab7
                 Console.WriteLine("3. Показати придмети обраного студента.");
                 Console.WriteLine("4. Показати середнє арифметичне серед всіх оцінок обраного студента.");
                 Console.WriteLine("5. Показати назву предмета, по якому студент отримав найнижчий бал.");
+                Console.WriteLine("6. Показати ціну за навчання обраного студента.");
 
                 Console.WriteLine("9. Закінчити програму.");
 
@@ -275,10 +326,12 @@ namespace Lab7
 
                     case 4:
                         ShowArithmeticMean(Students);
-
                         break;
                     case 5:
                         LowestScore(Students);
+                        break;
+                    case 6:
+                        ShowTuitionFee(Students);
                         break;
                     default:
                         Console.WriteLine("Ви вибрали неіснуючий пунк спробуйте ще раз.");

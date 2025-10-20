@@ -5,3 +5,10 @@ C:\Education\OOP\OOP\SimpleClassLibrary\obj\Release\SimpleClassLibrary.csproj.As
 C:\Education\OOP\OOP\SimpleClassLibrary\obj\Release\SimpleClassLibrary.csproj.CoreCompileInputs.cache
 C:\Education\OOP\OOP\SimpleClassLibrary\obj\Release\SimpleClassLibrary.dll
 C:\Education\OOP\OOP\SimpleClassLibrary\obj\Release\SimpleClassLibrary.pdb
+F:\Універ\OOP\OOP\SimpleClassLibrary\bin\Release\SimpleClassLibrary.dll.config
+F:\Універ\OOP\OOP\SimpleClassLibrary\bin\Release\SimpleClassLibrary.dll
+F:\Універ\OOP\OOP\SimpleClassLibrary\bin\Release\SimpleClassLibrary.pdb
+F:\Універ\OOP\OOP\SimpleClassLibrary\obj\Release\SimpleClassLibrary.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\SimpleClassLibrary\obj\Release\SimpleClassLibrary.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\SimpleClassLibrary\obj\Release\SimpleClassLibrary.dll
+F:\Універ\OOP\OOP\SimpleClassLibrary\obj\Release\SimpleClassLibrary.pdb
