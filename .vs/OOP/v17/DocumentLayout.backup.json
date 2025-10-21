@@ -1,18 +1,27 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Education\\OOP\\OOP\\",
+  "WorkspaceRootPath": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D97857A-9AB2-4F53-A512-E48771801BEC}|SimpleClassLibrary\\SimpleClassLibrary.csproj|c:\\education\\oop\\oop\\simpleclasslibrary\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D97857A-9AB2-4F53-A512-E48771801BEC}|SimpleClassLibrary\\SimpleClassLibrary.csproj|solutionrelative:simpleclasslibrary\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|c:\\education\\oop\\oop\\lab7\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|C:\\Education\\OOP\\OOP\\lab7\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|solutionrelative:lab7\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|c:\\education\\oop\\oop\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|C:\\Education\\OOP\\OOP\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\lab7\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|solutionrelative:lab7\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D97857A-9AB2-4F53-A512-E48771801BEC}|SimpleClassLibrary\\SimpleClassLibrary.csproj|f:\\\u0443\u043D\u0456\u0432\u0435\u0440\\oop\\oop\\simpleclasslibrary\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D97857A-9AB2-4F53-A512-E48771801BEC}|SimpleClassLibrary\\SimpleClassLibrary.csproj|solutionrelative:simpleclasslibrary\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> a55d85050c7973639a55e93093a4693df0849af3
     }
   ],
   "DocumentGroupContainers": [
@@ -30,42 +39,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab7\\Test.cs",
-              "RelativeDocumentMoniker": "Lab7\\Test.cs",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab7\\Test.cs",
-              "RelativeToolTip": "Lab7\\Test.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAQwDsAAABcAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Students.cs",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\SimpleClassLibrary\\Students.cs",
+              "RelativeDocumentMoniker": "SimpleClassLibrary\\Students.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\SimpleClassLibrary\\Students.cs",
+              "RelativeToolTip": "SimpleClassLibrary\\Students.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAADwv2YAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:33:25.638Z",
+<<<<<<< HEAD
+              "WhenOpened": "2025-10-14T05:33:25.638Z"
+=======
+              "WhenOpened": "2025-10-15T05:35:55.973Z",
               "EditorCaption": ""
+>>>>>>> a55d85050c7973639a55e93093a4693df0849af3
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Students.cs",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\SimpleClassLibrary\\Students.cs",
-              "RelativeDocumentMoniker": "SimpleClassLibrary\\Students.cs",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\SimpleClassLibrary\\Students.cs",
-              "RelativeToolTip": "SimpleClassLibrary\\Students.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAqwLUAAAAjAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7\\Program.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab7\\Program.cs",
+              "RelativeToolTip": "Lab7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:18:05.943Z",
+              "WhenOpened": "2025-10-14T05:17:14.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Education\\OOP\\OOP\\Lab7\\Program.cs",
-              "RelativeDocumentMoniker": "Lab7\\Program.cs",
-              "ToolTip": "C:\\Education\\OOP\\OOP\\Lab7\\Program.cs",
-              "RelativeToolTip": "Lab7\\Program.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAuwGIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab7\\Test.cs",
+              "RelativeDocumentMoniker": "Lab7\\Test.cs",
+              "ToolTip": "F:\\\u0423\u043D\u0456\u0432\u0435\u0440\\OOP\\OOP\\Lab7\\Test.cs",
+              "RelativeToolTip": "Lab7\\Test.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:17:14.337Z",
+<<<<<<< HEAD
+              "WhenOpened": "2025-10-14T05:17:14.337Z"
+=======
+              "WhenOpened": "2025-10-15T05:35:52.77Z",
               "EditorCaption": ""
+>>>>>>> a55d85050c7973639a55e93093a4693df0849af3
             }
           ]
         }

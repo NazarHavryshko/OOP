@@ -57,7 +57,6 @@ namespace SimpleClassLibrary
         public Result(string subjectName, string TeacherFullName, string IsExam)
         {
             bool Exam;
-            byte point;
 
             if (this.СheckСorrectSText(subjectName) && this.СheckСorrectSText(TeacherFullName) &&
                 this.СheckСorrectSExam(IsExam, out Exam)
@@ -166,20 +165,20 @@ namespace SimpleClassLibrary
             return this.Results[worstId].SubjectName;
         }
 
-        public Student(string FullName, string Group, string CourseNumber, string SubjectNum, int Price)
+        public Student(string fullName, string group, string courseNumber, string subjectNum, int price)
         {
             int num;
             byte course;
 
-            if (this.СheckСorrectSName(FullName) && this.СheckСorrectSGroup(Group) &&
-                this.СheckСorrectCourseNumber(CourseNumber, out course) && СheckPosibleIntNumber(SubjectNum, out num) &&
-                Price > 0
+            if (this.СheckСorrectSName(fullName) && this.СheckСorrectSGroup(group) &&
+                this.СheckСorrectCourseNumber(courseNumber, out course) && СheckPosibleIntNumber(subjectNum, out num) &&
+                price > 0
             )
             {
-                this.FullName = FullName;
-                this.Group = Group;
+                this.FullName = fullName;
+                this.Group = group;
                 this.CourseNumber = course;
-                this.TuitionFee = Price;
+                this.TuitionFee = price;
 
                 Results = new Result[num];
             }
@@ -189,17 +188,17 @@ namespace SimpleClassLibrary
             }
         }
 
-        public Student(string FullName, string Group, string CourseNumber)
+        public Student(string fullName, string group, string courseNumber)
         {
             int num;
             byte course;
 
-            if (this.СheckСorrectSName(FullName) && this.СheckСorrectSGroup(Group) &&
-                this.СheckСorrectCourseNumber(CourseNumber, out course)
+            if (this.СheckСorrectSName(fullName) && this.СheckСorrectSGroup(group) &&
+                this.СheckСorrectCourseNumber(courseNumber, out course)
             )
             {
-                this.FullName = FullName;
-                this.Group = Group;
+                this.FullName = fullName;
+                this.Group = group;
                 this.CourseNumber = course;
             }
             else

@@ -10,3 +10,15 @@ C:\Education\OOP\OOP\Lab7\obj\Release\Lab7.csproj.Up2Date
 C:\Education\OOP\OOP\Lab7\obj\Release\Lab7.exe
 C:\Education\OOP\OOP\Lab7\obj\Release\Lab7.pdb
 C:\Education\OOP\OOP\Lab7\obj\Release\Lab7.exe.config
+F:\Універ\OOP\OOP\Lab7\bin\Release\Lab7.exe.config
+F:\Універ\OOP\OOP\Lab7\bin\Release\Lab7.exe
+F:\Універ\OOP\OOP\Lab7\bin\Release\Lab7.pdb
+F:\Універ\OOP\OOP\Lab7\bin\Release\SimpleClassLibrary.dll
+F:\Універ\OOP\OOP\Lab7\bin\Release\SimpleClassLibrary.pdb
+F:\Універ\OOP\OOP\Lab7\bin\Release\SimpleClassLibrary.dll.config
+F:\Універ\OOP\OOP\Lab7\obj\Release\Lab7.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\Lab7\obj\Release\Lab7.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\Lab7\obj\Release\Lab7.csproj.Up2Date
+F:\Універ\OOP\OOP\Lab7\obj\Release\Lab7.exe
+F:\Універ\OOP\OOP\Lab7\obj\Release\Lab7.pdb
+F:\Універ\OOP\OOP\Lab7\obj\Release\Lab7.exe.config
