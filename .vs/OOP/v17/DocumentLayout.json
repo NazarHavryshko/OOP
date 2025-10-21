@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{0D97857A-9AB2-4F53-A512-E48771801BEC}|SimpleClassLibrary\\SimpleClassLibrary.csproj|solutionrelative:simpleclasslibrary\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|c:\\education\\oop\\oop\\lab7\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|C:\\Education\\OOP\\OOP\\lab7\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|solutionrelative:lab7\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|c:\\education\\oop\\oop\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|C:\\Education\\OOP\\OOP\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EEC37B4-E15B-4897-9A0E-BFBEA223C3AC}|Lab7\\Lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Lab7\\Test.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAQwDsAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:33:25.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T05:33:25.638Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Lab7\\Program.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAuwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T05:17:14.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T05:17:14.337Z"
             }
           ]
         }
