@@ -120,7 +120,7 @@ namespace Lab7
                             results[numx] = result;
                             numx++;
                         }
-                        catch (ArgumentException ae)
+                        catch (ArgumentException)
                         {
                             Console.WriteLine("Ви ввели невірне значення предмету.");
                         }
@@ -130,7 +130,7 @@ namespace Lab7
                     Students.Add(student);
                     break;
                 }
-                catch (ArgumentException ae)
+                catch (ArgumentException)
                 {
                     Console.WriteLine("Ви ввели невірне значення ");
                 }

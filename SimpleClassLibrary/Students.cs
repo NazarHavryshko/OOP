@@ -190,7 +190,6 @@ namespace SimpleClassLibrary
 
         public Student(string fullName, string group, string courseNumber)
         {
-            int num;
             byte course;
 
             if (this.СheckСorrectSName(fullName) && this.СheckСorrectSGroup(group) &&

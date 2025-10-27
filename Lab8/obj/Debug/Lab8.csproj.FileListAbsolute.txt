@@ -1,0 +1,12 @@
+F:\Універ\OOP\OOP\Lab8\bin\Debug\Lab8.exe.config
+F:\Універ\OOP\OOP\Lab8\bin\Debug\Lab8.exe
+F:\Універ\OOP\OOP\Lab8\bin\Debug\Lab8.pdb
+F:\Універ\OOP\OOP\Lab8\bin\Debug\SimpleClassLibrary.dll
+F:\Універ\OOP\OOP\Lab8\bin\Debug\SimpleClassLibrary.pdb
+F:\Універ\OOP\OOP\Lab8\bin\Debug\SimpleClassLibrary.dll.config
+F:\Універ\OOP\OOP\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\Lab8\obj\Debug\Lab8.csproj.Up2Date
+F:\Універ\OOP\OOP\Lab8\obj\Debug\Lab8.exe
+F:\Універ\OOP\OOP\Lab8\obj\Debug\Lab8.pdb
+F:\Універ\OOP\OOP\Lab8\obj\Debug\Lab8.exe.config

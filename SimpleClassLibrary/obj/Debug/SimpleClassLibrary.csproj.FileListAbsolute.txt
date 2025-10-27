@@ -1,0 +1,7 @@
+F:\Універ\OOP\OOP\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.dll.config
+F:\Універ\OOP\OOP\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.dll
+F:\Універ\OOP\OOP\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.pdb
+F:\Універ\OOP\OOP\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.csproj.AssemblyReference.cache
+F:\Універ\OOP\OOP\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.csproj.CoreCompileInputs.cache
+F:\Універ\OOP\OOP\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.dll
+F:\Універ\OOP\OOP\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.pdb
