@@ -90,8 +90,6 @@ namespace Lab8
         static internal void ShapeArea()
         {
             bool statusPorgram = true;
-            List<Triangle> triangles = new List<Triangle>();
-            List<Circle> circles = new List<Circle>();
             List<Shape> shapes = new List<Shape>();
 
             while (statusPorgram)
@@ -100,9 +98,7 @@ namespace Lab8
                 Console.WriteLine("1. Добавити трикутник.");
                 Console.WriteLine("2. Добавити коло.");
                 Console.WriteLine("3. Показати всі фігури.");
-                //Console.WriteLine("4. Показати середнє арифметичне серед всіх оцінок обраного студента.");
-                //Console.WriteLine("5. Показати назву предмета, по якому студент отримав найнижчий бал.");
-                //Console.WriteLine("6. Показати ціну за навчання обраного студента.");
+
 
                 Console.WriteLine("9. Повернутися до попереднього меню (усі дані видаляться).");
 
@@ -116,9 +112,6 @@ namespace Lab8
                     case 9:
                         statusPorgram = false;
                         break;
-                    //case 8:
-                    //    Students = Test.testStudent();
-                    //    break;
 
                     case 1:
                         AddTriangle(shapes);
